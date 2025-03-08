@@ -53,6 +53,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/EZZERBOUTIABDELHAK/EZZERBOUTIABDELHAK/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/EZZERBOUTIABDELHAK/EZZERBOUTIABDELHAK/blob/output/github-snake-dark.svg)
 
 ###

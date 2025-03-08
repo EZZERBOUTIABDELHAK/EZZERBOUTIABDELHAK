@@ -1,4 +1,4 @@
-<h3 align="left">👋 Hi, I'm Abdelhak Ezzerbouti<br><br>I'm a passionate Computer Science student specializing in  Engineering and Management of Information Systems (IMSI) at École Nationale Polytechnique d'Oran. I love  problem-solving and  Web Development.💻</h3>
+<h3 align="left">👋 Hi, I'm Abdel-hak Ezzerbouti<br><br>I'm a passionate Computer Science student specializing in  Engineering and Management of Information Systems (IMSI) at École Nationale Polytechnique d'Oran. I love  problem-solving and  Web Development.💻</h3>
 
 ###
 
